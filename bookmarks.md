@@ -32,7 +32,19 @@
 
 [Trading Economincs Euro Area Interest Rate](https://tradingeconomics.com/euro-area/interest-rate)
 
+## EU
+
+[Euronews](https://www.euronews.com/)
+
+[Eu Observer](https://euobserver.com/)
+
+
 ## tech
 
 [Downdetector](https://downdetector.com/)
+
+[Y Hacker News](https://news.ycombinator.com/)
+
+[Lobsters](https://lobste.rs/)
+
 
