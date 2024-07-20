@@ -32,3 +32,7 @@
 
 [Trading Economincs Euro Area Interest Rate](https://tradingeconomics.com/euro-area/interest-rate)
 
+## tech
+
+[Downdetector](https://downdetector.com/)
+
