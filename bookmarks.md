@@ -36,8 +36,9 @@
 
 [Euronews](https://www.euronews.com/)
 
-[Eu Observer](https://euobserver.com/)
+[EU Observer](https://euobserver.com/)
 
+[EU Transparency](https://european-union.europa.eu/principles-countries-history/principles-and-values/access-information_en)
 
 ## tech
 
