@@ -30,6 +30,8 @@
 
 [Key ECB interest rates](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html)
 
+[Euribor rates](https://www.euribor-rates.eu/en/)
+
 [Trading Economincs Euro Area Interest Rate](https://tradingeconomics.com/euro-area/interest-rate)
 
 ## EU
