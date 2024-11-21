@@ -50,4 +50,7 @@
 
 [Lobsters](https://lobste.rs/)
 
+## other
+
+[Crisis preparation](https://www.suomi.fi/guides/preparedness?a=c3b7)
 
