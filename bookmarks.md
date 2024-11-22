@@ -50,7 +50,13 @@
 
 [Lobsters](https://lobste.rs/)
 
+[Ars Technica](https://arstechnica.com/)
+
+[Benedict Evans](https://www.ben-evans.com)
+
 ## other
 
 [Crisis preparation](https://www.suomi.fi/guides/preparedness?a=c3b7)
+
+[Paywall reader (cached versions of sites)](https://paywallreader.com)
 
