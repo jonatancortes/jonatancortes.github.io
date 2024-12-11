@@ -54,6 +54,8 @@
 
 [Benedict Evans](https://www.ben-evans.com)
 
+[Sepia search Peertube](https://sepiasearch.org/)
+
 ## other
 
 [Crisis preparation](https://www.suomi.fi/guides/preparedness?a=c3b7)
