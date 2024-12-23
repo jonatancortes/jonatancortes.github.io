@@ -60,3 +60,5 @@
 
 [Paywall reader (cached versions of sites)](https://paywallreader.com)
 
+[World Population Review](https://worldpopulationreview.com)
+
