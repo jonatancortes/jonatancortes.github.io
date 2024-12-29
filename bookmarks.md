@@ -56,7 +56,7 @@
 
 [Sepia search Peertube](https://sepiasearch.org/)
 
-## other
+## misc
 
 [Crisis preparation](https://www.suomi.fi/guides/preparedness?a=c3b7)
 
