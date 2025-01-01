@@ -60,7 +60,9 @@
 
 [Crisis preparation](https://www.suomi.fi/guides/preparedness?a=c3b7)
 
-[Paywall reader (cached versions of sites)](https://paywallreader.com)
+[Paywall reader](https://paywallreader.com)
+
+[Remove Paywall](https://www.removepaywall.com/)
 
 [World Population Review](https://worldpopulationreview.com)
 
