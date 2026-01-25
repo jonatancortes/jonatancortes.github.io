@@ -4,15 +4,17 @@
 
 [Belgium official energy info](https://economie.fgov.be/fr/themes/energie)
 
-[Dutch TTF Gas](https://www.barchart.com/futures/quotes/TG*1)
-
-[Dutch TTF Natural Gas Futures](https://www.ice.com/products/27996665/Dutch-TTF-Natural-Gas-Futures/data?marketId=5714606)
+[Average Spot Market Prices](https://energy-charts.info/charts/price_average/chart.htm?l=en&c=BE&chartColumnSorting=default)
 
 [Belgian Spot ZTP](https://my.elexys.be/MarketInformation/SpotZtp.aspx)
 
 [Engie Daily quotations](https://business.engie.be/en/electricity-gas/energy-market/daily-market-values/)
 
 [Ice Endex Power BE](https://my.elexys.be/MarketInformation/IceEndexPowerBE.aspx)
+
+[Dutch TTF Gas](https://www.barchart.com/futures/quotes/TG*1)
+
+[Dutch TTF Natural Gas Futures](https://www.ice.com/products/27996665/Dutch-TTF-Natural-Gas-Futures/data?marketId=5714606)
 
 
 ## prices
