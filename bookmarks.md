@@ -46,7 +46,7 @@
 
 [EU Transparency](https://european-union.europa.eu/principles-countries-history/principles-and-values/access-information_en)
 
-## tech
+## tech and aggregators
 
 [Downdetector](https://downdetector.com/)
 
@@ -59,6 +59,8 @@
 [Benedict Evans](https://www.ben-evans.com)
 
 [Sepia search Peertube](https://sepiasearch.org/)
+
+[Kagi Small Web](https://kagi.com/smallweb)
 
 ## misc
 
