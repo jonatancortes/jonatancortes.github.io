@@ -62,6 +62,10 @@
 
 [Kagi Small Web](https://kagi.com/smallweb)
 
+[Zeroday](https://www.zetter-zeroday.com)
+
+[Google Thread Intelligence](https://cloud.google.com/blog/topics/threat-intelligence/)
+
 ## misc
 
 [Crisis preparation](https://www.suomi.fi/guides/preparedness?a=c3b7)
