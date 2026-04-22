@@ -66,6 +66,14 @@
 
 [Google Thread Intelligence](https://cloud.google.com/blog/topics/threat-intelligence/)
 
+## music
+
+[Lofi Cafe](https://www.lofi.cafe/LlLVV)
+
+[Lofi Cafe Net](https://loficafe.net)
+
+[Lofi Radio](https://lofi.radio/)
+
 ## misc
 
 [Crisis preparation](https://www.suomi.fi/guides/preparedness?a=c3b7)
