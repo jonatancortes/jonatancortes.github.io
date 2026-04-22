@@ -74,6 +74,8 @@
 
 [Lofi Radio](https://lofi.radio/)
 
+[Techo youtube](https://www.youtube.com/watch?v=eeD0bjlVggo)
+
 ## misc
 
 [Crisis preparation](https://www.suomi.fi/guides/preparedness?a=c3b7)
