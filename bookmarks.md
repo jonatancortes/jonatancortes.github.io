@@ -74,7 +74,9 @@
 
 [Lofi Radio](https://lofi.radio/)
 
-[Techo youtube](https://www.youtube.com/watch?v=eeD0bjlVggo)
+[Techno youtube](https://www.youtube.com/watch?v=eeD0bjlVggo)
+
+[Techno 2](https://www.youtube.com/watch?v=K4PvF-FE2Ek)
 
 ## misc
 
