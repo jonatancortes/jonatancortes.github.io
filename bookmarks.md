@@ -76,8 +76,6 @@
 
 [Techno youtube](https://www.youtube.com/watch?v=eeD0bjlVggo)
 
-[Techno 2](https://www.youtube.com/watch?v=K4PvF-FE2Ek)
-
 ## misc
 
 [Crisis preparation](https://www.suomi.fi/guides/preparedness?a=c3b7)
