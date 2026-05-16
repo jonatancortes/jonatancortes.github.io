@@ -77,6 +77,8 @@
 
 ## misc
 
+[Project Gutenberg](https://www.gutenberg.org/)
+
 [Crisis preparation](https://www.suomi.fi/guides/preparedness?a=c3b7)
 
 [Paywall reader](https://paywallreader.com)
