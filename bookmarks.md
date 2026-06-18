@@ -52,6 +52,8 @@
 
 [Y Hacker News](https://news.ycombinator.com/)
 
+[Bubbles](https://bubbles.town/)
+
 [Lobsters](https://lobste.rs/)
 
 [Ars Technica](https://arstechnica.com/)
